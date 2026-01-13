@@ -16,7 +16,7 @@ A Chrome extension that automatically fills job application forms with saved use
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/job-autofill-extension.git
+   git clone https://github.com/vinit0704/job-autofill-extension.git
    cd job-autofill-extension
 ```
 
@@ -133,7 +133,7 @@ MIT License - feel free to use this project for learning and development.
 
 ## Author
 
-[Your Name]
+[Vinit Kamble]
 
 ## Acknowledgments
 
@@ -142,4 +142,3 @@ MIT License - feel free to use this project for learning and development.
 
 ---
 
-**Note**: This extension is for educational purposes. Always review autofilled information before submitting applications.
